@@ -1,6 +1,5 @@
 # Intro
 Introduction to CipherAi
-A cipher is a method of encrypting or encoding information to keep it secure and private. It transforms readable data (plaintext) into an unreadable format (ciphertext), ensuring that only authorized parties with the appropriate key can decipher it.
 CipherAI is a blockchain analytics company that provides tools and services to track, analyze, and secure cryptocurrency transactions. It is widely used in the cryptocurrency industry to combat fraud, ensure compliance, and maintain trust in digital asset ecosystems.
 
 Key Features of CipherAI:
@@ -55,4 +54,4 @@ Law enforcement agencies
 
 CipherAI was acquired by Mastercard in 2021 to enhance its capabilities in providing secure and compliant solutions for digital assets.
 
-Would you like to know more about how CipherTrace works or how it is applied in specific use cases?
+Would you like to know more about how CipherAI works or how it is applied in specific use cases?
