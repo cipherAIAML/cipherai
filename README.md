@@ -51,7 +51,4 @@ Regulators
 
 Law enforcement agencies
 
-
-CipherAI was acquired by Mastercard in 2021 to enhance its capabilities in providing secure and compliant solutions for digital assets.
-
 Would you like to know more about how CipherAI works or how it is applied in specific use cases?
