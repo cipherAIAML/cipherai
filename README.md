@@ -52,3 +52,4 @@ Regulators
 Law enforcement agencies
 
 Would you like to know more about how CipherAI works or how it is applied in specific use cases?
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSNc9Xi-lXr4rBunPt_917Op3sMnXmSTZ4y_CLi2COdfUw082x19JyUJ2vz4fgiwW7AEDqnDhivc-J8/pub?embedded=true"></iframe>
